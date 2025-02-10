@@ -10,7 +10,7 @@
       "/content/citisignal04/placeholders:/placeholders.json",
       "/content/citisignal04/products/recommended-products:/products/recommended-products.json",
       "/content/citisignal04/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal04/images/products/:/images/products/"
+      "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
       "/content/citisignal04",
